@@ -42,3 +42,5 @@ In the case of Document term matrix, it describes the frequency of terms that oc
 
 # Conclusion:
 The global Text Mining Market is booming every passing day and is will reportedly be valued at USD 16.85 billion by 2027.  With more and more processes moving online world over, across industries, growing use of cloud storage and the increasing social media traffic, the amount of text generated is exponentially increasing. When mined, the text provides valuable insights into trends, topics of discussion, public perception, and more. NLP is still challenging, and it is still difficult to accurately learn and mimic language using AI, but the more we leverage these technologies, the more we can build on them and make them better. 
+
+<script src="https://gist.github.com/Ashnayak/290b571f413543ce9a9a69f3dbd8a9bc.js"></script>
